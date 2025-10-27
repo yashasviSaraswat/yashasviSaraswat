@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @yashasviSaraswat
-- 👀 I’m interested in knowing more
-- 🌱 I’m currently learning different languages and various technologies
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in knowing languages and various technologies
 - 📫 How to reach me saraswat2004yashasvi@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to try new things
